@@ -1,3 +1,1 @@
-# ProgWebII
-
-https://arthurthekidboy.github.io/ProgWebII/index.html
+https://arthurthekidboy.github.io/ProgWebII/
